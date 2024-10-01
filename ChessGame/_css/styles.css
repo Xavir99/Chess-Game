@@ -43,7 +43,7 @@ span[id*=p-]{
 }
 
 .kill-cell-color{
-    background-color: red !important;
+    background-color: rgb(255, 0, 191) !important;
 }
 
 #message-div{
